@@ -491,12 +491,13 @@ footer {
 ```
 
 # OUTPUT:
-![alt text](restaurant-website.png)
+![alt text](restaurant.png)
 ![alt text](menu1.png)
 ![alt text](menu2.png)
 ![alt text](menu3.png)
 ![alt text](admin.png)
 ![alt text](contact.png)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
